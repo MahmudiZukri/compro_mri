@@ -1,6 +1,6 @@
 
-<header class="w-full fixed top-0 bg-transparent flex flex-wrap items-center justify-between mx-auto p-4 z-50">
-    <nav class="w-full">
+<header class="w-full fixed top-0 bg-transparent flex flex-wrap items-center justify-between mx-auto p-4 z-100">
+    <nav class="nav w-full">
         <div class="flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="" class="flex items-center">
                 <span class="self-center text-logo text-2xl font-circularstd font-bold whitespace-nowrap

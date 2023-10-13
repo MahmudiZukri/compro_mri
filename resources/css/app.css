@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @layer base {
+    @import "../plugins/slick/slick/slick.css";
     @font-face {
         font-family: "Circular Std";
         src: url("../fonts/circularstd/CircularStd-Black.eot");

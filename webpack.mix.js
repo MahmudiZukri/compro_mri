@@ -16,4 +16,5 @@ mix.js("resources/js/app.js", "public/js").postCss(
     "public/css",
     [require("tailwindcss")]
 );
-mix.copyDirectory("resources/fonts", "public/fonts");
+// mix.copyDirectory("resources/fonts", "public/fonts");
+// mix.copyDirectory("resources/plugins", "public/plugins");
